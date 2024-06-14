@@ -7,7 +7,7 @@
 ### Table of Contents
 
 - [x] [Day 1: Introduction to Go](#day-1-introduction-to-go)
-- [ ] [Day 2: Control Structures (Part 1)](#day-2-control-structures-part-1)
+- [x] [Day 2: Control Structures (Part 1)](#day-2-control-structures-part-1)
 - [ ] [Day 3: Loop Structures](#day-3-loop-structures)
 - [ ] [Day 4: Functions and Packages (Part 1)](#day-4-functions-and-packages-part-1)
 - [ ] [Day 5: Functions and Packages (Part 2)](#day-5-functions-and-packages-part-2)
@@ -42,21 +42,21 @@
 ### Week 1: Getting Started with Go
 
 #### Day 1: Introduction to Go
-- [ ] **Install Go**: Download and install Go from the official website.
-- [ ] **Workspace Setup**: Set up your Go workspace (`GOPATH`).
-- [ ] **Basic Syntax**: Learn about variables, constants, and basic types (int, float, string).
-- [ ] **Hello World**: Write and run a simple "Hello, World!" program.
-- [ ] **Resources**: Go tour ([tour.golang.org](https://tour.golang.org)), Go by Example ([gobyexample.com](https://gobyexample.com)).
+- [x] **Install Go**: Download and install Go from the official website.
+- [x] **Workspace Setup**: Set up your Go workspace (`GOPATH`).
+- [x] **Basic Syntax**: Learn about variables, constants, and basic types (int, float, string).
+- [x] **Hello World**: Write and run a simple "Hello, World!" program.
+- [x] **Resources**: Go tour ([tour.golang.org](https://tour.golang.org)), Go by Example ([gobyexample.com](https://gobyexample.com)).
 
 #### Day 2: Basic Programming Concepts
-- [ ] **Data Types**: Explore basic data types (int, float, string, bool).
-- [ ] **Type Conversion**: Understand type conversion.
-- [ ] **Operators**: Learn about arithmetic, relational, logical, and bitwise operators.
-- [ ] **Examples**: Write simple programs to demonstrate the use of different operators.
+- [x] **Data Types**: Explore basic data types (int, float, string, bool).
+- [x] **Type Conversion**: Understand type conversion.
+- [x] **Operators**: Learn about arithmetic, relational, logical, and bitwise operators.
+- [x] **Examples**: Write simple programs to demonstrate the use of different operators.
 
 #### Day 3: Control Structures (Part 1)
-- [ ] **Conditionals**: Learn about `if`, `else`, and `switch` statements.
-- [ ] **Examples**: Write programs that use conditionals (e.g., finding the maximum of two numbers).
+- [x] **Conditionals**: Learn about `if`, `else`, and `switch` statements.
+- [x] **Examples**: Write programs that use conditionals (e.g., finding the maximum of two numbers).
 - [ ] **Loops**: Learn about `for` loops and `range`.
 - [ ] **Examples**: Write simple loop-based programs (e.g., FizzBuzz).
 
